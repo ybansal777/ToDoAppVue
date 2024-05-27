@@ -19,4 +19,4 @@ Steps to Create Vue Page
 
 
 
-To Run the page, type "npm run dev" and paste the link in your browser
+To Run the page, type "npm install" then "npm run dev" and paste the link in your browser
